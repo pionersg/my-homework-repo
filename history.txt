@@ -1,0 +1,16 @@
+  103  git push -u origin feature
+  104  git push -u origin feature
+  105  git push -u origin feature
+  106  git push -u origin feature
+  107  git remote set-url origin git@github.com:pionersg/my-homework-repo.git
+  108  git remote -v
+  109  ssh -T git@github.com
+  110  git push -u origin feature
+  111  git commit --amend -m "Add README and update gitignore ammend"
+  112  git push -f
+  113  git merge main
+  114  git checkout main
+  115  git merge main
+  116  git push
+  117  git merge feature
+  118  git push
